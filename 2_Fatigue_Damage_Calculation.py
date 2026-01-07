@@ -1,5 +1,5 @@
 # Python program for calculating fatigue damage value related to the stress and steel material grade properties
-# Fatigue damage is calculated based on formulae from ASME/API and British standards code.
+# Fatigue damage is calculated as per ASME/API and British standards code.
 
 ########################################################################################
 
